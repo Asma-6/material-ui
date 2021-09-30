@@ -1,2 +1,2 @@
-The template of MUI used in Diplomas repo was from this folder :\
+The template of MUI used in Diplomas repo was from this folder :
 tree/master/docs/src/pages/premium-themes/paperbase
